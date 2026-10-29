@@ -4,10 +4,12 @@ Android TV downloads for a local game for 2–8 players. The TV runs the game; p
 
 **[Download the latest APK](https://github.com/harrychafercook-sys/showme-unomi-releases/releases/latest/download/showme-unomi.apk)**
 
+**Downloader code: 8412656** · [Short link](https://aftv.news/8412656)
+
 ## Install
 
 1. Open **Downloader by AFTVnews** on your Android TV.
-2. Enter the APK download link above, download it and choose **Install**. If Android asks, allow Downloader to install this app.
+2. Enter **8412656**, download the APK and choose **Install**. If Android asks, allow Downloader to install this app. The direct download link above is also available.
 3. Open **Show Me You Know Me**, keep it open, and connect phones to the same Wi-Fi.
 4. Scan a seat's QR code, enter a name and optionally take a selfie. Two ready players are needed to start.
 
